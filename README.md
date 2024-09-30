@@ -85,4 +85,3 @@ The project uses the **Sentiment140 dataset** from Kaggle, containing **1.6 mill
 
 ### Topic Analysis by Class
 - Distribution of topics based on sentiment classes (positive and negative)
-# project_nlp
